@@ -98,4 +98,4 @@ async def on_message(message):
             message.channel.send(e)
 
 
-client.run('NzQ2NjY5MzIxNjEwMDY4MDA5.X0Dr_g.UZ-SomTjn3_NswGSiGRwl5fu_iU')
+client.run('token')
